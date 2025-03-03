@@ -25,6 +25,7 @@ A curated list of awesome solutions and research in AI model routing. `*` indica
 
 *Research papers on AI model routing (ordered by recency)*
 
+- [EmbedLLM: Learning Compact Representations of Large Language Models, 2024-10-03](https://arxiv.org/abs/2410.02223)*: A matrix-factorization based LLM router which extracts "model embeddings" that captures LLM characteristics.
 - [RouteLLM: Learning to Route LLMs with Preference Data, 2024-07-21](https://arxiv.org/abs/2406.18665)*: A training framework for strong vs weak LLM routers leveraging human preference data and data augmentation.
 - [MetaLLM: A High-performant and Cost-efficient Dynamic Framework for Wrapping LLMs, 2024-07-15](https://arxiv.org/abs/2407.10834)*: Dynamically route each query to the optimal LLM for classification tasks.
 - [Merge, Ensemble, and Cooperate! A Survey on Collaborative Strategies in the Era of Large Language Models, 2024-07-08](https://arxiv.org/abs/2407.06089)*: Comprehensive overview of merging, ensembling, and cooperation in LLMs.
